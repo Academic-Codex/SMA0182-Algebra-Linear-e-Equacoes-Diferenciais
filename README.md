@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SMA0182-Algebra-Linear-e-Equacoes-Diferenciais">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:41:02.567948Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SMA0182-Algebra-Linear-e-Equacoes-Diferenciais?utm_source=SMA0182-Algebra-Linear-e-Equacoes-Diferenciais&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:15.924257Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
